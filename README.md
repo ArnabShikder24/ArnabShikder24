@@ -37,7 +37,8 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-- ⚡Arnab's(https://github.com/ArnabShikder24) GitHub activity graph
+
+- ⚡Arnab's GitHub activity graph
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabShikder24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ArnabShikder24" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnabShikder24&show_icons=true&locale=en&theme=tokyonight" alt="arnabshikder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnabShikder24&&theme=tokyonight" alt="arnabshikder" /></p>
