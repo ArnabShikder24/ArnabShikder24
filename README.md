@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Arnab Shikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">My Web Site : <a href="https://coderarnab24.netlify.app/"> Arnab Shikder</a></p>
+<div id="header" align="left">
+<img src="https://komarev.com/ghpvc/?username=ArnabShikder24&style=for-the-badge&color=blueviolet" alt=""/>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
