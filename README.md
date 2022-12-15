@@ -20,12 +20,16 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/arnab-shikder-7293a222a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <p align="left">
+<a href="https://www.linkedin.com/in/arnab-shikder-7293a222a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/arnabshikder360/">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://www.facebook.com/Coder.Arnab">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+</a>
 <a href="https://www.linkedin.com/in/arnab-shikder-7293a222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-shikder-7293a222a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arnabshikder360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
   
