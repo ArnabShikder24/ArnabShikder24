@@ -1,4 +1,4 @@
-<img alt="cover" width="100%" src="https://media.licdn.com/dms/image/C5616AQGyHh9XFCQ5FA/profile-displaybackgroundimage-shrink_350_1400/0/1652974913980?e=1676505600&v=beta&t=mLeIa0VissOAaZj056vwNPGiA_iEWZqExP8svhr1F3U">
+<img alt="cover" width="100%" src="https://media.licdn.com/dms/image/D5616AQEjSPGuTCtbNA/profile-displaybackgroundimage-shrink_350_1400/0/1671368683008?e=1677110400&v=beta&t=BkfmE4jBTjeiAf_LHhAM0kQLMtrgoahegfMb4D-ohkU">
 <h1 align="center">Hi 👋, I'm Arnab Shikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">My Web Site : <a href="https://coderarnab24.netlify.app/"> Arnab Shikder</a></p>
@@ -37,6 +37,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
