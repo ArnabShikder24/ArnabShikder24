@@ -9,11 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=ArnabShikder24&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-- 🔭 I’m currently working on **OPS Dashboard**
+- 🔭 I’m currently working on **Next JS**
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **React JS Next JS**
 
 - 📫 How to reach me **arnabshikder2001@gmail.com**
 
