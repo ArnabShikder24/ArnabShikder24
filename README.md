@@ -1,6 +1,6 @@
 <img alt="cover" width="100%" src="https://media.licdn.com/dms/image/D5616AQEjSPGuTCtbNA/profile-displaybackgroundimage-shrink_350_1400/0/1671368683008?e=1704931200&v=beta&t=GsINd5ArybXh89vzaanIF0RQV9TXoIGdVKvNPqO97NI">
 <h1 align="center">Hi 👋, I'm Arnab Shikder</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <p align="center">My Web Site : <a href="https://coderarnab24.netlify.app/"> Arnab Shikder</a></p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
