@@ -1,4 +1,4 @@
-<img alt="cover" width="100%" src="https://media.licdn.com/dms/image/D5616AQEjSPGuTCtbNA/profile-displaybackgroundimage-shrink_350_1400/0/1671368683008?e=1704931200&v=beta&t=GsINd5ArybXh89vzaanIF0RQV9TXoIGdVKvNPqO97NI">
+<img alt="cover" width="100%" src="https://media.licdn.com/dms/image/D5616AQEjSPGuTCtbNA/profile-displaybackgroundimage-shrink_350_1400/0/1671368684095?e=1714608000&v=beta&t=2oNuAbArLXHyuPIcoDIMuLaUdRA6Ui1ZeIDXjnZR80g">
 <h1 align="center">Hi 👋, I'm Arnab Shikder</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <p align="center">My Web Site : <a href="https://coderarnab24.netlify.app/"> Arnab Shikder</a></p>
@@ -9,11 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=ArnabShikder24&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-- 🔭 I’m currently working on **Next JS**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 💬 Ask me about **React JS Next JS**
+- 💬 Ask me about **React JS Next JS React Native**
 
 - 📫 How to reach me **arnabshikder2001@gmail.com**
 
@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/arnabshikder360/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
 </a>
-<a href="https://www.facebook.com/Coder.Arnab">
+<a href="https://www.facebook.com/arnabshikder24">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
 </a>
     
