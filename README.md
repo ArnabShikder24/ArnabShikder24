@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **Nest.js**
 
-- 💬 Ask me about **React JS Next JS React Native**
+- 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **arnabshikder2001@gmail.com**
+- 📫 How to reach me **arnab.shikder1@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
