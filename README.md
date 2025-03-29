@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Full Stack Development**
 
