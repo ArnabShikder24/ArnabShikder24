@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=ArnabShikder24&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Django & React.js**
 
 - 🌱 I’m currently learning **DSA**
 
