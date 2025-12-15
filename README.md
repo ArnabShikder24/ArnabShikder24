@@ -8,11 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=ArnabShikder24&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-- 🔭 I’m currently working on **Django/FastAPI & Next.js**
+- 🔭 I’m currently working on **AI Integration**
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **arnab.shikder1@gmail.com**
 
