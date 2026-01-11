@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI Integration**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **How to solve a problem**
 
 - 💬 Ask me about **Software Engineering**
 
