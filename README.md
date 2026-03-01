@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **arnab.shikder1@gmail.com**
+- 📫 How to reach me **arnab.shikder.tech@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
