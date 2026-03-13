@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF30QtXPN_SZQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUauFSKGoAg-/0/1739910043528?e=1775088000&v=beta&t=TWegKCHhpVCL0YGfbp_akAxRU-NgaDgTOEd09Dhg9_g" alt=""/>
+
 <h1 align="center">Hi 👋, I'm Arnab Shikder</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <p align="center">My Web Site : <a href="https://coderarnab24.netlify.app/"> Arnab Shikder</a></p>
